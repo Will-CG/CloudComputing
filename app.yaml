@@ -1,4 +1,4 @@
-service: streamlit-test-app
+service: streamlit-test
 runtime: custom
 env: flex
 manual_scaling: 
