@@ -1,3 +1,4 @@
 pandas-profiling
 streamlit
 pandas
+streamlit-pandas-profiling
